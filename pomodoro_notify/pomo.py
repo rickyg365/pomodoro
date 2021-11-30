@@ -1,4 +1,5 @@
 import os
+import sys
 import time
 
 """
@@ -10,7 +11,13 @@ imported from scratch to use on the toast version
 
 
 def clear_screen():
-    os.system("cls")
+    # Default: WINDcle
+    clear_command = "cls"
+
+    if sys.platform == "linux":
+        clear_command = "clear"
+
+    os.system(clear_command)
 
 
 class PomoTimer:

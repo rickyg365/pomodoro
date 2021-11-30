@@ -1,4 +1,6 @@
 import os
+import sys
+
 import time
 
 """
@@ -9,7 +11,13 @@ Date: 05-25-2021
 
 
 def clear_screen():
-    os.system("cls")
+    # Default: WINDOcl
+    clear_command = "cls"
+    
+    if sys.platform == "linux":
+        clear_command = "clear"
+
+    os.system(clear_command)
 
 
 class PomoTimer:
