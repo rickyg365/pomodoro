@@ -5,7 +5,7 @@ Various Implementations of a Pomodoro Timer
 
 ```python
 # Starts from final time and counts down
-[ Title ]: [MM:SS] | final -> 0
+[ Title ]: [MM:SS] -> [ Title ]: [00:00]
 ```
 
 
@@ -13,7 +13,7 @@ Various Implementations of a Pomodoro Timer
 
 ```python
 # Starts from 0 and counts up
-[ Title ]: [MM:SS] | 0 -> final
+[ Title ]: [00:00] -> [ Title ]: [MM:SS] 
 ```
 
 ## Win10Toast
