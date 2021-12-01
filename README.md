@@ -1,7 +1,7 @@
 # Pomodoro Timer
 Various Implementations of a Pomodoro Timer
 
-## Countdown
+## Count down
 
 ```python
 # Starts from final time and counts down
@@ -9,7 +9,7 @@ Various Implementations of a Pomodoro Timer
 ```
 
 
-## Countup
+## Count up
 
 ```python
 # Starts from 0 and counts up
