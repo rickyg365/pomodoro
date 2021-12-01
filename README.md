@@ -1,12 +1,6 @@
 # Pomodoro Timer
 Various Implementations of a Pomodoro Timer
 
-## Installing
-
-Install with 
-```
-```
-
 ## Countdown
 
 ```python
