@@ -10,13 +10,15 @@ Install with
 ## Countdown
 
 ```python
+# Starts from final time and counts down
 [ Title ]: [MM:SS] | final -> 0
 ```
 
 
-## Regular
+## Countup
 
 ```python
+# Starts from 0 and counts up
 [ Title ]: [MM:SS] | 0 -> final
 ```
 
