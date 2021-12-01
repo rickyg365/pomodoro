@@ -4,7 +4,7 @@ Various Implementations of a Pomodoro Timer
 ## Count down
 
 ```python
-""" Starts from final time and counts down """
+''' Starts from final time and counts down '''
 [ Timer Title ]:  [MM:SS] -> [00:00]
 ```
 
