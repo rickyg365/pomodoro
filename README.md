@@ -24,10 +24,7 @@ Various Implementations of a Pomodoro Timer
 # Displays a toast notification
 ```
 
-<details>
-<summary>Heading</summary>
-
-some detail
-</details>
+## TO DO
+refactor
 
 <!-- This is a test, no need to translate -->
