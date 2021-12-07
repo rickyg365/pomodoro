@@ -25,6 +25,6 @@ Various Implementations of a Pomodoro Timer
 ```
 
 ## TO DO
-refactor
+* refactor
 
 <!-- This is a test, no need to translate -->
